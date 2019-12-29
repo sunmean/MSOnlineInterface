@@ -20,7 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
  * @param regExpStr    获取匹配内容的正则表达式
  * @param startString  需要替换去除掉的开始标识字符串
  * @param endString    需要替换去除掉的结束标识字符串
- * @return 返回字符串
+ * @return 返回字典
  */
 + (NSDictionary *)getDicFromOnlineInterfaceWithLinkString:(NSString *)linkString andSearchRegExpStr:(NSString *)regExpStr andReplacingStartString:(NSString *)startString andReplacingEndString:(NSString *)endString;
 
