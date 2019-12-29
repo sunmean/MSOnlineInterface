@@ -18,7 +18,7 @@
 "isOpen" : "0"
 }</span>
 ```
-2.但很奇怪我明明写的id是“versionData”，但需要注意GitHub返回的id是“user-content-versiondata”。id只是增加了前缀，无所谓了。
+2.但很奇怪我明明写的id是“versionData”，但需要注意GitHub返回的id是“user-content-versiondata”。id只是增加了前缀，无所谓了。<br/>
 3.首先我需要获取对应id的span里面的内容，于是我写<span id=\"user-content-versiondata\">[\\s\\S]*</span></p>的正则表达式通过正则从整个网页当中去获取到上面需要的内容。经过正则匹配筛选后的结果如下：
 ```html
 <span id="user-content-versiondata">data = {
