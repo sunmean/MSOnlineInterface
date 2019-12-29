@@ -6,15 +6,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MSOnlineInterface/MSOnlineInterface/MSOnlineInterface.m"
-            timestampString = "599316352.771713"
+            timestampString = "599330118.0451601"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
             landmarkName = "+getDicFromOnlineInterfaceWithLinkString:andSearchRegExpStr:andReplacingStartString:andReplacingEndString:"
             landmarkType = "7">
          </BreakpointContent>
