@@ -75,11 +75,7 @@ static MSOnlineInterface *manager = nil;
     return result ? [checkString substringWithRange:result.range] : nil;
 }
 
-/*!
- * @brief 把格式化的JSON格式的字符串转换成字典
- * @param jsonString JSON格式的字符串
- * @return 返回字典
- */
+
 + (NSDictionary *)dictionaryWithJsonString:(NSString *)jsonString {
     if (jsonString == nil) {
         return nil;
@@ -97,11 +93,7 @@ static MSOnlineInterface *manager = nil;
     return dic;
 }
 
-/*!
- * @brief 字典转换为字符串
- * @param dic 字典
- * @return 返回字符串
- */
+
 + (NSString*)dictionaryToJson:(NSDictionary *)dic
 {
     NSError *parseError = nil;
