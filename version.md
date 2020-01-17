@@ -2,7 +2,7 @@
 "appId" : "修复已知的问题",
 "version" : "1.1.3",
 "versionCode" : "-1",
-"newDomain" : "https://test.igxpt.com/app_ygx/public/",
+"newDomainName" : "https://test.igxpt.com/app_ygx/public/",
 "isOpen" : "0",
 "isSwitchDomain" : "1",
 "isOpenHttpsSSL" : "1",
