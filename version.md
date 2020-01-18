@@ -11,7 +11,7 @@
            "://release.ioa365.cn",
            "://releaseapi.ioa365.cn",
            "://ygxtest.ioa365.cn",
-           "://img.ioa365.cn",
+           "://img.ioa365.cn"
         ],
 "onlineNewWebDomains": [
             "://igxpt.com",
@@ -20,7 +20,7 @@
            "://release.igxpt.com",
            "://releaseapi.igxpt.com",
            "://test.igxpt.com",
-           "://img.igxpt.com",
+           "://img.igxpt.com"
         ],
 "isOpen" : "0",
 "isSwitchDomain" : "1",
