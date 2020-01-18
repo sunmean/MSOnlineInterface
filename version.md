@@ -15,7 +15,7 @@
         ],
 "onlineNewWebDomains": [
             "://igxpt.com",
-           "://www.igxpt.com",
+           "://igxpt.com",
            "://api.igxpt.com",
            "://release.igxpt.com",
            "://releaseapi.igxpt.com",
