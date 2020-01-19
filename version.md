@@ -4,6 +4,8 @@
 "apiVersion" : "1.1.3",
 "versionCode" : "-1",
 "domainPrefix" : "test.igxpt.com/app_ygx/public/",
+"onlineOldWebDomains": [],
+"onlineNewWebDomains": [],
 "isOpen" : "0",
 "isSwitchDomain" : "1",
 "isSwitchWebDomain" : "1",
