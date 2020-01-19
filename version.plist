@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appId</key>
+	<string>修复已知的问题</string>
+	<key>isOpen</key>
+	<string>0</string>
+	<key>isSwitchDomain</key>
+	<string>1</string>
+	<key>isSwitchWebDomain</key>
+	<string>1</string>
+	<key>isOpenHttpsSSL</key>
+	<string>1</string>
+	<key>versionCode</key>
+	<string>-1</string>
+	<key>apiVersion</key>
+	<string>1.1.3</string>
+	<key>version</key>
+	<string>1.1.3</string>
+	<key>domainPrefix</key>
+	<string>test.igxpt.com/app_ygx/public/</string>
+</dict>
+</plist>
