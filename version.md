@@ -1,9 +1,9 @@
 <span id = 'versionData'>data = {
-"appId" : "修改已知的问题",
+"appId" : "修复已知的问题",
 "version" : "1.1.4",
 "apiVersion" : "1.1.3",
 "versionCode" : "-1",
-"domainPrefix" : "",
+"domainPrefix" : "api.igxpt.com/app_ygx/public/",
 "onlineOldWebDomains":[],
 "onlineNewWebDomains":[],
 "isOpen" : "1",
